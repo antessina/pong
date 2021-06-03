@@ -1,0 +1,21 @@
+body{
+    background: grey;
+}
+h1, p{
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+li {
+    display: flex;
+    text-align: center;
+    display: inline-block;
+}
+canvas {
+    margin-left: 30.25%;
+}
